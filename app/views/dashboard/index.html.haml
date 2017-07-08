@@ -1,0 +1,5 @@
+%h1 What to plant when
+Now is the time to plant:
+%ul
+  - @plants.each_pair do |plant_name, plant_data|
+    %li= plant_name.humanize

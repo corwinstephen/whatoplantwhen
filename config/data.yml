@@ -1,0 +1,163 @@
+plants:
+  beetroot:
+    locations:
+      - plot
+      - patio
+    planting_period:
+      start: 4
+      end: 7
+  borlotti_beans:
+    locations:
+      - plot
+    planting_period:
+      start: 4
+      end: 6
+  broad_beans:
+    locations:
+      - plot
+    planting_period:
+      start: 2
+      end: 4
+  brocolli:
+    locations:
+      - plot
+    planting_period:
+      start: 4
+      end: 5
+  brussel_sprouts:
+    locations:
+      - plot
+    planting_period:
+      start: 3
+      end: 4
+  cabbages:
+    locations:
+      - plot
+    planting_period:
+      start: 3
+      end: 4
+  carrots:
+    locations:
+      - plot
+      - patio
+    planting_period:
+      start: 4
+      end: 7
+  courgettes:
+    locations:
+      - plot
+      - patio
+    planting_period:
+      start: 4
+      end: 5
+  cucumbers:
+    locations:
+      - plot
+      - patio
+    planting_period:
+      start: 4
+      end: 5
+  french_beans:
+    locations:
+      - plot
+      - patio
+    planting_period:
+      start: 5
+      end: 7
+  kale:
+    locations:
+      - plot
+    planting_period:
+      start: 5
+      end: 6
+  leek:
+    locations:
+      - plot
+    planting_period:
+      start: 4
+      end: 4
+  lettuce:
+    locations:
+      - plot
+      - patio
+    planting_period:
+      start: 4
+      end: 7
+  mange_tout:
+    locations:
+      - plot
+      - patio
+    planting_period:
+      start: 3
+      end: 6
+  onions:
+    locations:
+      - plot
+    planting_period:
+      start: 3
+      end: 4
+  parsnips:
+    locations:
+      - plot
+    planting_period:
+      start: 4
+      end: 6
+  perpetual_spinach:
+    locations:
+      - plot
+      - patio
+    planting_period:
+      start: 4
+      end: 7
+  potatoes:
+    locations:
+      - plot
+    planting_period:
+      start: 5
+      end: 5
+  radish:
+    locations:
+      - plot
+      - patio
+    planting_period:
+      start: 4
+      end: 8
+  spring_onion:
+    locations:
+      - plot
+      - patio
+    planting_period:
+      start: 3
+      end: 7
+  squash:
+    locations:
+      - plot
+    planting_period:
+      start: 4
+      end: 5
+  sweetcorn:
+    locations:
+      - plot
+    planting_period:
+      start: 4
+      end: 5
+  swiss_chard:
+    locations:
+      - plot
+      - patio
+    planting_period:
+      start: 4
+      end: 7
+  tomatoes:
+    locations:
+      - plot
+      - patio
+    planting_period:
+      start: 3
+      end: 4
+  turnips:
+    locations:
+      - plot
+    planting_period:
+      start: 4
+      end: 8
