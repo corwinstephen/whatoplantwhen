@@ -155,3 +155,6 @@ Started GET "/" for ::1 at 2017-07-08 00:18:41 -0400
 Processing by DashboardController#index as HTML
   Rendered dashboard/index.html.haml within layouts/application (1.2ms)
 Completed 200 OK in 17ms (Views: 14.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (8.8ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (2.4ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
